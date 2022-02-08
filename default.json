@@ -3,7 +3,7 @@
     "symbol": "LIN",
     "description": "Test NFT",
     "seller_fee_basis_points": 1000,
-    "image": "https://arweave.net/hyj3eDc_Lt122bZa23GtZENQFWCRnGK7DtVKceD1Oh4",
+    "image": "https://raw.githubusercontent.com/GeorgeGento/devnet-solana/main/0.png",
     "external_url": "",
     "edition": 0,
     "attributes": [
@@ -27,7 +27,7 @@
     "properties": {
       "files": [
         {
-          "uri": "https://arweave.net/hyj3eDc_Lt122bZa23GtZENQFWCRnGK7DtVKceD1Oh4",
+          "uri": "https://raw.githubusercontent.com/GeorgeGento/devnet-solana/main/0.png",
           "type": "image/png"
         }
       ],
