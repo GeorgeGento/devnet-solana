@@ -3,7 +3,7 @@
     "symbol": "LIN",
     "description": "Test NFT",
     "seller_fee_basis_points": 1000,
-    "image": "",
+    "image": "0.png",
     "external_url": "",
     "edition": 0,
     "attributes": [
@@ -27,7 +27,7 @@
     "properties": {
       "files": [
         {
-          "uri": "",
+          "uri": "0.png",
           "type": "image/png"
         }
       ],
