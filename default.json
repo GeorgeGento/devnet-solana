@@ -3,7 +3,7 @@
     "symbol": "LIN",
     "description": "Test NFT",
     "seller_fee_basis_points": 1000,
-    "image": "https://raw.githubusercontent.com/GeorgeGento/devnet-solana/main/0.png",
+    "image": "",
     "external_url": "",
     "edition": 0,
     "attributes": [
@@ -27,7 +27,7 @@
     "properties": {
       "files": [
         {
-          "uri": "https://raw.githubusercontent.com/GeorgeGento/devnet-solana/main/0.png",
+          "uri": "",
           "type": "image/png"
         }
       ],
